@@ -1,2 +1,12 @@
 print('Hi Git!')
-print('Hi from another Dev!'
+
+print('hi from another dev')
+
+
+def hi_there():
+    print("hi")
+
+def my-function():
+    return 'hi'
+
+print("hi")
