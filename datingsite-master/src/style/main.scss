@@ -1,0 +1,46 @@
+.app-wrapper {
+  display: flex;
+
+  flex-direction: row;
+
+  flex-wrap: nowrap;
+
+  justify-content: center;
+
+  align-content: space-between;
+
+  align-items: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+.App {
+  display: flex;
+
+  justify-content: space-around;
+  width: 300px;
+  height: 400px;
+}
+.meme {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-around;
+}
+
+.image-wrapper {
+  display: flex;
+  height: 175px;
+  width: 175px;
+  img {
+    height: 175px;
+  }
+}
+.text-wrapper {
+  display: flex;
+  align-items: center;
+}
+.logo-wrapper {
+  display: flex;
+}
